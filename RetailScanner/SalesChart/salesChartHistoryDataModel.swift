@@ -11,3 +11,4 @@ struct salesChartHistoryDataModel {
     var customerName: String
     var totalAmount: String
 }
+
